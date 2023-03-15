@@ -2,6 +2,10 @@ Tutorial remake with Next-js13 (original only react on YouTube by Noor_Mohammad 
 
 npm install react-icons --save
 
+npm i react-simple-typewriter
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
